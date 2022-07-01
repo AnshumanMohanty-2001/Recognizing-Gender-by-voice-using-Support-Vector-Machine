@@ -94,6 +94,7 @@ The dataset could be downloaded using the [Link](https://www.kaggle.com/primaryo
   ├── SVM_Gender_Recognition_from_Voice.ipynb
   ├── requirements.txt
   ├── .gitignore
+  ├── img_temp/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Installation & Setup
