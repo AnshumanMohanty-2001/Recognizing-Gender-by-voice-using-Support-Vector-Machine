@@ -24,7 +24,7 @@ This work is about predicting a person's gender based on the sound characterstic
     <a href="#project-structure">Project Structure</a>
   </li>
   <li>
-    <a href="#installation-&-setup">Installation & Setup</a>
+    <a href="#installation-and-setup">Installation and Setup</a>
   </li>
   <li>
     <a href="#results">Results</a>
@@ -86,18 +86,18 @@ The dataset could be downloaded using the [Link](https://www.kaggle.com/primaryo
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Project Structure
-  ├── Dataset/
-      ├── voice.csv
-  ├── SVM Explanation/
-      ├── SVM_Outline.ipynb
-      ├── images/
-  ├── SVM_Gender_Recognition_from_Voice.ipynb
-  ├── requirements.txt
-  ├── .gitignore
-  ├── img_temp/
+    ├── Dataset/
+        ├── voice.csv
+    ├── SVM Explanation/
+        ├── SVM_Outline.ipynb
+        ├── images/
+    ├── SVM_Gender_Recognition_from_Voice.ipynb
+    ├── requirements.txt
+    ├── .gitignore
+    ├── img_temp/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Installation & Setup
+## Installation and Setup
 1. Create a virtual environment in conda prompt using the following commands:
     * Make a virtual environment
  
